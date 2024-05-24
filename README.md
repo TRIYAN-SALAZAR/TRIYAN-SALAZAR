@@ -20,8 +20,11 @@
 <p align="center">
 
 - **Languages, Frameworks and Librarys**:
-    
-    ![All](https://skillicons.dev/icons?i=nestjs,express,js,ts,nodejs,discordjs,css,html,react)
+    	<p align="center">
+  		<a href="https://skillicons.dev">
+    			[![All](https://skillicons.dev/icons?i=nestjs,express,js,ts,nodejs,discordjs,css,html,react&theme=light)](https://skillicons.dev)
+  		</a>
+	</p>
     <!--- ![]() --->
 <br>
 
