@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Jorge Ozuna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola!! Soy Jorge Ozuna, un gusto :D </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -7,7 +7,7 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
@@ -19,7 +19,7 @@
 
 <p align="center">
 
-- **Languages, Frameworks and Librarys**:
+- **Lenguajes, Frameworks y Librerias**:
     	<p align="center">
   		<a href="https://skillicons.dev">
     			[![All](https://skillicons.dev/icons?i=nestjs,express,js,ts,nodejs,discordjs,css,html,react&theme=light)](https://skillicons.dev)
@@ -28,7 +28,7 @@
     <!--- ![]() --->
 <br>
 
-- **Softwares and Tools**:
+- **Softwares y Herramientas 🛠 **:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -40,7 +40,7 @@
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
+    
 <br>
 
 </p>
@@ -48,7 +48,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contactame </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -64,6 +64,13 @@
 <div align='center'>
 <br>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRIYAN-SALAZAR&count_private=true&show_icons=true&theme=tokyonight,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRIYAN-SALAZAR&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>### 🐍 &nbsp;That's How Commits move ...
 
