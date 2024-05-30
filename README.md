@@ -9,7 +9,9 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+<div>
+Mucho gusto, soy jorge pero me pueden decir triyan o hacha, actualmente tengo 19 años y me encuentro aprendiendo JS junto TS de igual forma me la paso estudiando para especializarme en el backend y me gustaria empezar a desarrollar otros pasatiempos como la física entre otras ideas que por el momento no tengo claras del todo jsjsjs, pero en fin, gracias por detenerte a leer :D
+</div>
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
