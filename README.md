@@ -47,16 +47,6 @@ Mucho gusto, soy jorge pero me pueden decir triyan o hacha, actualmente tengo 19
 </p>
 
 <br>
-<br>
-
-## <b> Contactame </b><img src="https://github.com/Jorge Ozuna/wa/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-	
-</div>
 
 <br>
 <br>
