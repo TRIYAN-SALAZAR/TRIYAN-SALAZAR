@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <div>
-Mucho gusto, soy jorge pero me pueden decir triyan o hacha, actualmente tengo 19 años y me encuentro aprendiendo JS junto TS de igual forma me la paso estudiando para especializarme en el backend y me gustaria empezar a desarrollar otros pasatiempos como la física entre otras ideas que por el momento no tengo claras del todo jsjsjs, pero en fin, gracias por detenerte a leer :D
+Mucho gusto, soy jorge pero me pueden decir triyan o hacha, actualmente tengo 19 años y me encuentro aprendiendo JS junto a Python de igual forma me la paso estudiando para especializarme en el backend y me gustaria empezar a desarrollar otros pasatiempos como la física u las matemáticas entre otras ideas que por el momento no tengo claras del todo jsjsjs, pero en fin, gracias por detenerte a leer :D
 </div>
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
@@ -47,10 +47,6 @@ Mucho gusto, soy jorge pero me pueden decir triyan o hacha, actualmente tengo 19
 </p>
 
 <br>
-
-<br>
-<br>
-<br>
 <br>
 <div align='center'>
 <br>
@@ -60,7 +56,6 @@ Mucho gusto, soy jorge pero me pueden decir triyan o hacha, actualmente tengo 19
 <div style='align-items: center'>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRIYAN-SALAZAR&count_private=true&show_icons=true&theme=tokyonight,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRIYAN-SALAZAR&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
 <br>
