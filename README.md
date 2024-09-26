@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hola!! Soy Jorge Ozuna, un gusto :D </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello!! I'm Jorge Ozuna, nice to meet you :D </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=Backend+Developer+Junior;Coffee+Lover;Curious+for+the+unknown;Orgullosamente+Mexicano+%F0%9F%8F%B4%F3%A0%81%AD%F3%A0%81%B8%F3%A0%81%AD%F3%A0%81%A5%F3%A0%81%B8%F3%A0%81%BF;Deep+Learning" alt="Typing SVG" /></a>
