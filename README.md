@@ -2,14 +2,14 @@
 <h1 align="center"><b>Hola!! Soy Jorge Ozuna, un gusto :D </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=Developer+Backend+Web;Amante+del+Caf%C3%A9+%E2%98%95+;Curious+for+the+unknown;Orgullosamente+Mexicano+%F0%9F%8F%B4%F3%A0%81%AD%F3%A0%81%B8%F3%A0%81%AD%F3%A0%81%A5%F3%A0%81%B8%F3%A0%81%BF;TypeScript+Lover" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11AAFF&random=false&width=435&lines=Backend+Developer+Junior;Coffee+Lover;Curious+for+the+unknown;Orgullosamente+Mexicano+%F0%9F%8F%B4%F3%A0%81%AD%F3%A0%81%B8%F3%A0%81%AD%F3%A0%81%A5%F3%A0%81%B8%F3%A0%81%BF;Deep+Learning" alt="Typing SVG" /></a>
 </p>
 <br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <div>
-Mucho gusto, soy jorge pero me pueden decir triyan o hacha, actualmente tengo 19 años y me encuentro aprendiendo JS junto a Python de igual forma me la paso estudiando para especializarme en el backend y me gustaria empezar a desarrollar otros pasatiempos como la física u las matemáticas entre otras ideas que por el momento no tengo claras del todo jsjsjs, pero en fin, gracias por detenerte a leer :D
+Welcome to my proflie, I'm Jorge Ozuna, I'm 20 years old and I'm Mexican. Actually study Computer Engeenering and I'm Backend Developer with Nodejs, I like the coffee and learn about several topics as machine learning for this reason I'll started learn python.
 </div>
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
