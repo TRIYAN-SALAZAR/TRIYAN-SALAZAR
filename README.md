@@ -9,7 +9,7 @@
 ## **About me**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <div>
-Welcome to my proflie, I'm Jorge Ozuna, I'm 20 years old and I'm Mexican. Currently study Computer Engeenering and I'm a begginer in Backend Developer with Nodejs and QA tester Developer, I like the coffee and learn about several topics as maths, physics, programming (obviously), and machine learning.
+Welcome to my profile, I'm Jorge Ozuna, I'm 20 years old and I'm Mexican. Currently study Computer Engeenering and I'm a begginer in Backend Developer with Nodejs and QA tester Developer, I like the coffee and learn about several topics as maths, physics, programming (obviously), and machine learning.
 </div>
 
 <br><br>
