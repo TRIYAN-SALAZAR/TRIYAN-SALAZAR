@@ -20,7 +20,7 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
 - **Lenguajes, Frameworks y Librerias**:
     	<p align="center">
   		<a href="https://skillicons.dev">
-    			[![All](https://skillicons.dev/icons?i=nestjs,express,js,ts,nodejs,discordjs,python,c,css,html,react&theme=light)](https://skillicons.dev)
+    			[![All](https://skillicons.dev/icons?i=nestjs,express,js,ts,nodejs,discordjs,python,c,css,html,react,jest&theme=light)](https://skillicons.dev)
   		</a>
 	</p>
 <br>
