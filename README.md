@@ -16,7 +16,8 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
 <br>
 - Resilient
 - Positive and Curious Attitude 
-- Active Communication  
+- Active Communication
+
 <br>
 ## <b> Skills</b>
 <br>
