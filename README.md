@@ -12,19 +12,14 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
 </div>
 
 <br>
-## <b> Soft Skills </b>
-<br>
 
-- Resilient
-- Positive and Curious Attitude 
-- Active Communication
-
-<br>
 ## <b> Skills</b>
+
 <br>
 
 <p align="center">
-- **Lenguajes, Frameworks y Librerias**:
+	
+- **Languages and Frameworks**:
     	<p align="center">
   		<a href="https://skillicons.dev">
     			[![All](https://skillicons.dev/icons?i=nestjs,express,js,ts,nodejs,discordjs,python,c,css,html,react,jest&theme=light)](https://skillicons.dev)
@@ -32,7 +27,7 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
 	</p>
 <br>
 
-- **Softwares y Herramientas 🛠**:
+- **Softwares and tools 🛠**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -48,6 +43,11 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
     ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
     
 <br>
+
+- **Soft Skills**:
+
+Resilient, Positive and Curious Attitude, and Active Communication
+
 
 </p>
 
