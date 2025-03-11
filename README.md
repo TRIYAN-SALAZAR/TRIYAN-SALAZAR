@@ -12,11 +12,16 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
 </div>
 
 <br><br>
+## <b>Soft Skills</b>
+<br>
+- Resilient
+- Positive and Curious Attitude 
+- Active Communication  
+<br>
 ## <b> Skills</b>
 <br>
 
 <p align="center">
-
 - **Lenguajes, Frameworks y Librerias**:
     	<p align="center">
   		<a href="https://skillicons.dev">
@@ -47,7 +52,7 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
 <br>
 <br>
 <div align='center'>
-<br>
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
