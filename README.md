@@ -14,6 +14,7 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
 <br>
 ## <b> Soft Skills </b>
 <br>
+
 - Resilient
 - Positive and Curious Attitude 
 - Active Communication
