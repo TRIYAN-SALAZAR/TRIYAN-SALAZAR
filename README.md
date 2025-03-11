@@ -11,8 +11,8 @@
 Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Currently study Computer Engeenering and I'm a begginer in Backend Developer and QA tester Developer with NodeJS, I like the coffee and learn about several topics as maths, physics, programming (obviously), machine learning, etc.
 </div>
 
-<br><br>
-## <b>Soft Skills</b>
+<br>
+## <b> Soft Skills </b>
 <br>
 - Resilient
 - Positive and Curious Attitude 
