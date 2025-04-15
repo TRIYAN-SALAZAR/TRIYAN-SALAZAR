@@ -19,14 +19,14 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
 
 <p align="center">
 	
-- **Languages and Frameworks**:
+- **Programming Languages and Frameworks**:
     	<p align="center">
   		<a href="https://skillicons.dev">
-    			[![All](https://skillicons.dev/icons?i=express,js,nodejs,c,css,html&theme=light)](https://skillicons.dev)
+    			[![All](https://skillicons.dev/icons?i=js,nodejs,ts,c,css,html,express,nextjs&theme=dark)](https://skillicons.dev)
   		</a>
 	</p>
-<br>
-
+ <br>
+ 
 - **Softwares and tools 🛠**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -35,11 +35,6 @@ Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Cur
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
     
 <br>
-
-- **Soft Skills**:
-
-Resilient, Positive and Curious Attitude, and Active Communication
-
 
 </p>
 
