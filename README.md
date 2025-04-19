@@ -8,7 +8,7 @@
 	
 ## **About me**
 <div>
-Welcome to my profile, I'm Jorge Ozuna, I have 20 years old and I'm Mexican. Currently study Computer Engeenering and I'm a begginer in Backend Developer and QA tester Developer with NodeJS, I like the coffee and learn about several topics as maths, physics, programming (obviously), machine learning, etc.
+Welcome to my profile! I'm Jorge Ozuna, a 20-year-old from Mexico. I'm currently studying Computer Engineering. I'm a beginner backend developer with Node.js, and I'm also interested in learning about QA testing. I love coffee and enjoy learning about many topics such as math, physics, programming (obviously!), machine learning, and more.
 </div>
 
 <br>
