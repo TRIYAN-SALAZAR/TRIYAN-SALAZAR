@@ -22,7 +22,7 @@ Welcome to my profile! I'm Jorge Ozuna, a 20-year-old from Mexico. I'm currently
 - **Programming Languages and Frameworks**:
     	<p align="center">
   		<a href="https://skillicons.dev">
-    			[![All](https://skillicons.dev/icons?i=js,nodejs,ts,c,css,html,express,nextjs&theme=dark)](https://skillicons.dev)
+    			[![All](https://skillicons.dev/icons?i=js,nodejs,ts,c,cpp,css,html,express,nextjs&theme=dark)](https://skillicons.dev)
   		</a>
 	</p>
  <br>
