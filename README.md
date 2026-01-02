@@ -8,7 +8,7 @@
 	
 ## **About me**
 <div>
-Welcome to my profile! I'm Jorge Ozuna, a 20-year-old from Mexico. I'm currently studying Computer Engineering. I'm a beginner backend developer with Node.js, and I'm also interested in learning about QA testing. I love coffee and enjoy learning about many topics such as math, physics, programming (obviously!), machine learning, and more.
+Welcome to my profile! I'm Jorge Ozuna, a 21-year-old from Mexico. I'm currently studying Computer Engineering. I'm a beginner backend developer with Node.js, and I'm also interested in learning about QA testing. I love coffee and enjoy learning about many topics such as math, physics, programming (obviously!), machine learning, and more.
 </div>
 
 <br>
@@ -22,7 +22,7 @@ Welcome to my profile! I'm Jorge Ozuna, a 20-year-old from Mexico. I'm currently
 - **Programming Languages and Frameworks**:
     	<p align="center">
   		<a href="https://skillicons.dev">
-    			[![All](https://skillicons.dev/icons?i=js,nodejs,ts,c,cpp,css,html,express,nextjs&theme=dark)](https://skillicons.dev)
+    			[![All](https://skillicons.dev/icons?i=js,nodejs,c,cpp,css,html,express&theme=dark)](https://skillicons.dev)
   		</a>
 	</p>
  <br>
