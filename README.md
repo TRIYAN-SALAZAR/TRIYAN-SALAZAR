@@ -45,16 +45,11 @@ Welcome to my profile! I'm Jorge Ozuna, a 21-year-old from Mexico. I'm currently
 </p>
 
 <br>
-<br>
-<div align='center'>
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<!--	
 <div style='align-items: center'>
-	
 ![Triyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRIYAN-SALAZAR&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRIYAN-SALAZAR&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/TRIYAN-SALAZAR/github-readme-stats)
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
